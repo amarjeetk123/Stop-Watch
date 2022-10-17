@@ -11,9 +11,14 @@
 
 Live Link:- [Click here!](https://amarjeet-stop-watch-app.netlify.app/)
 
-Picture of my project:-
+## Picture of my project:-
+![](./1st.png)
+
 ![](./Screenshot%20(255).png)
 
 
-
-Time Taken For This Project:- 3 hours.
+## Technology Used:-
+  - ` HTML ` 
+  - ` CSS ` 
+  - ` JS ` 
+## Time Taken For This Project:- 3 hours.
